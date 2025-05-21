@@ -23,7 +23,7 @@ Special Interests: Algorithmen, OOP, Game Development, Web Development
 🔧 Projekte,
 | Projekt | Beschreibung | Sprache |
 |--------|--------------|---------|
-| Taschenrechner | Ein einfacher Taschenrechner mit HTML & CSS zur Übung im Frontend | HTML/CSS |
+| [Java_Uebungen](https://github.com/Gorthaur8/Java_uebungen) | Einfache übungen um Java Grundkenntnisse zu erlernen | JAVA |
 | TicTacToe (C++) | Objektorientiertes TicTacToe-Spiel mit C++ Klassen | C++ |
 | Tower of Hanoi | Umsetzung des Tower-of-Hanoi-Problems mit Klassen, Headern und Rekursion | C++ |
 | b-adische Darstellung | Umrechner von Dezimalzahlen in beliebige Basen (z. B. Binär, Hex, Oktal) | C++ |
